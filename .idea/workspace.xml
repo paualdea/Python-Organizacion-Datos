@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8fcb77b-76cd-46e2-a4b0-41f075da54f4" name="Changes" comment="" />
+    <list default="true" id="c8fcb77b-76cd-46e2-a4b0-41f075da54f4" name="Changes" comment="Creación repositorio 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organizacion_datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/organizacion_datos.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,7 +31,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -39,6 +51,40 @@
       <option name="presentableId" value="Default" />
       <updated>1774781474750</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creación repositorio">
+      <option name="closed" value="true" />
+      <created>1774781551753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774781551753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creación repositorio 2">
+      <option name="closed" value="true" />
+      <created>1774781623013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774781623013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creación repositorio 3">
+      <option name="closed" value="true" />
+      <created>1774781805826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774781805826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".gitlab-ci.yml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creación repositorio" />
+    <MESSAGE value="Creación repositorio 2" />
+    <MESSAGE value="Creación repositorio 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación repositorio 3" />
   </component>
 </project>
