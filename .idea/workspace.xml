@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8fcb77b-76cd-46e2-a4b0-41f075da54f4" name="Changes" comment="Solicitar entrada datos Closes #1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c8fcb77b-76cd-46e2-a4b0-41f075da54f4" name="Changes" comment="Agregar comentarios">
       <change beforePath="$PROJECT_DIR$/organizacion_datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/organizacion_datos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774782718102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Guardado usuarios en fichero (formateado) Closes #2, #3">
+      <option name="closed" value="true" />
+      <created>1774783627918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774783627918</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Agregar comentarios">
+      <option name="closed" value="true" />
+      <created>1774783721265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774783721265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -96,6 +111,8 @@
     <MESSAGE value="Creación repositorio 2" />
     <MESSAGE value="Creación repositorio 3" />
     <MESSAGE value="Solicitar entrada datos Closes #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solicitar entrada datos Closes #1" />
+    <MESSAGE value="Guardado usuarios en fichero (formateado) Closes #2, #3" />
+    <MESSAGE value="Agregar comentarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar comentarios" />
   </component>
 </project>

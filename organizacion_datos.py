@@ -35,7 +35,7 @@ for i in range(3):
     usuarios.insert(i, usuario)
 
 # Abrimos el archivo en modo escritura (w)
-with open(archivo, "w") as fichero:
+with open(archivo, "w", encoding="utf-8") as fichero:
     for i in range(len(usuarios)):
         # Escribimos en el fichero cada entrada de la lista formateada
         fichero.write(f"{usuarios[i]["nombre"]} - {usuarios[i]["edad"]}\n")
