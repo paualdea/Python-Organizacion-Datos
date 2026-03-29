@@ -32,6 +32,8 @@ for i in range(3):
     # Creamos un diccionario para el nuevo usuario
     usuario = {"nombre":nombre, "edad":edad}
     # Añadimos este nuevo usuario a la lista global
-    usuarios.append(usuario)
+    usuarios.insert(i, usuario)
 
-print(usuarios)
+with open(archivo, "w") as fichero:
+    for i in range(len(usuarios)):
+        fichero.write(f"{usuarios[i]["nombre"]} - {usuarios[i]["edad"]}\n")
